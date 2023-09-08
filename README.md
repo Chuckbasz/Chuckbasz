@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chuckbasz
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in flutter mobile development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on a publishing e-platform/mini social media
 - 📫 How to reach me 08088100679
 
 <!---
